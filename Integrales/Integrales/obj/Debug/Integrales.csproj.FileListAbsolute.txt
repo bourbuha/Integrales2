@@ -1,0 +1,9 @@
+C:\Users\1\source\repos\Integrales\Integrales\obj\Debug\Integrales.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Integrales\Integrales\obj\Debug\Integrales.Form1.resources
+C:\Users\1\source\repos\Integrales\Integrales\obj\Debug\Integrales.Properties.Resources.resources
+C:\Users\1\source\repos\Integrales\Integrales\obj\Debug\Integrales.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Integrales\Integrales\bin\Debug\Integrales.exe.config
+C:\Users\1\source\repos\Integrales\Integrales\bin\Debug\Integrales.exe
+C:\Users\1\source\repos\Integrales\Integrales\bin\Debug\Integrales.pdb
+C:\Users\1\source\repos\Integrales\Integrales\obj\Debug\Integrales.exe
+C:\Users\1\source\repos\Integrales\Integrales\obj\Debug\Integrales.pdb
